@@ -1,0 +1,201 @@
+skin_type,symptoms,acne_level,sensitivity,user_confusion,routine_level,makeup_style,recommendation
+unknown,not sure skin type,low,high,no,beginner,natural light makeup,skin_analysis_routine
+oily,large pores,low,high,yes,intermediate,matte makeup,oil_control_routine
+dry,tight skin,low,low,yes,beginner,soft makeup,hydration_routine
+unknown,no idea skin,high,medium,yes,intermediate,basic makeup,skin_analysis_routine
+sensitive,redness,low,high,no,intermediate,clean makeup,soothing_routine
+oily,shine face,medium,low,yes,intermediate,matte makeup,oil_control_routine
+sensitive,irritation,high,medium,yes,intermediate,light makeup,soothing_routine
+dry,peeling skin,low,high,no,intermediate,soft makeup,hydration_routine
+oily,large pores,low,low,yes,intermediate,matte makeup,oil_control_routine
+oily,shine face,medium,medium,no,intermediate,matte makeup,oil_control_routine
+sensitive,irritation,low,high,no,beginner,light makeup,soothing_routine
+unknown,not sure skin type,high,high,yes,beginner,minimal makeup,skin_analysis_routine
+combination,mixed skin areas,high,high,yes,intermediate,balanced makeup,balanced_routine
+oily,shine face,medium,medium,no,beginner,matte makeup,oil_control_routine
+normal,balanced skin,medium,low,no,intermediate,simple makeup,maintenance_routine
+combination,oily T-zone dry cheeks,medium,low,yes,intermediate,soft matte,balanced_routine
+normal,smooth skin,high,medium,no,beginner,natural glow makeup,maintenance_routine
+normal,smooth skin,low,low,yes,beginner,simple makeup,maintenance_routine
+oily,large pores,medium,high,yes,intermediate,long-lasting matte,oil_control_routine
+normal,smooth skin,high,medium,yes,beginner,simple makeup,maintenance_routine
+normal,smooth skin,high,medium,yes,intermediate,light makeup,maintenance_routine
+oily,acne and oil,low,high,no,beginner,oil-free makeup,oil_control_routine
+dry,itchy dryness,medium,high,yes,beginner,glow makeup,hydration_routine
+oily,large pores,high,low,no,intermediate,matte makeup,oil_control_routine
+dry,peeling skin,medium,low,yes,beginner,soft makeup,hydration_routine
+dry,tight skin,high,medium,yes,beginner,dewy natural makeup,hydration_routine
+unknown,confused skin,high,low,no,intermediate,natural light makeup,skin_analysis_routine
+normal,balanced skin,high,low,no,intermediate,simple makeup,maintenance_routine
+unknown,confused skin,medium,high,no,beginner,natural light makeup,skin_analysis_routine
+oily,shine face,medium,low,yes,beginner,matte makeup,oil_control_routine
+dry,itchy dryness,high,low,yes,beginner,dewy natural makeup,hydration_routine
+sensitive,redness,high,low,no,intermediate,minimal makeup,soothing_routine
+normal,healthy skin,high,high,no,beginner,light makeup,maintenance_routine
+combination,oily T-zone dry cheeks,low,low,no,intermediate,natural matte,balanced_routine
+combination,mixed skin areas,high,low,yes,beginner,natural matte,balanced_routine
+unknown,confused skin,low,low,yes,beginner,basic makeup,skin_analysis_routine
+combination,oily T-zone dry cheeks,medium,low,no,intermediate,balanced makeup,balanced_routine
+dry,peeling skin,high,low,yes,beginner,dewy natural makeup,hydration_routine
+oily,shine face,medium,medium,no,beginner,long-lasting matte,oil_control_routine
+dry,tight skin,medium,low,no,intermediate,glow makeup,hydration_routine
+sensitive,irritation,high,high,no,beginner,minimal makeup,soothing_routine
+sensitive,redness,low,high,yes,intermediate,minimal makeup,soothing_routine
+dry,itchy dryness,medium,high,yes,beginner,soft makeup,hydration_routine
+dry,tight skin,low,high,yes,beginner,glow makeup,hydration_routine
+dry,itchy dryness,low,high,yes,beginner,glow makeup,hydration_routine
+unknown,no idea skin,high,high,no,intermediate,natural light makeup,skin_analysis_routine
+unknown,no idea skin,medium,low,no,intermediate,natural light makeup,skin_analysis_routine
+unknown,no idea skin,medium,medium,no,beginner,natural light makeup,skin_analysis_routine
+combination,shine forehead only,high,low,yes,beginner,soft matte,balanced_routine
+sensitive,redness,medium,low,yes,intermediate,clean makeup,soothing_routine
+oily,acne and oil,high,high,no,beginner,oil-free makeup,oil_control_routine
+normal,smooth skin,high,low,yes,intermediate,natural glow makeup,maintenance_routine
+dry,itchy dryness,high,low,no,intermediate,soft makeup,hydration_routine
+oily,large pores,medium,low,no,intermediate,long-lasting matte,oil_control_routine
+dry,tight skin,high,medium,no,beginner,dewy natural makeup,hydration_routine
+sensitive,redness,high,medium,yes,intermediate,light makeup,soothing_routine
+unknown,confused skin,high,low,yes,beginner,basic makeup,skin_analysis_routine
+oily,large pores,low,medium,yes,intermediate,matte makeup,oil_control_routine
+dry,peeling skin,medium,low,no,beginner,soft makeup,hydration_routine
+oily,large pores,low,medium,no,beginner,matte makeup,oil_control_routine
+oily,shine face,medium,low,yes,intermediate,long-lasting matte,oil_control_routine
+unknown,no idea skin,low,medium,yes,beginner,minimal makeup,skin_analysis_routine
+dry,peeling skin,low,low,no,intermediate,glow makeup,hydration_routine
+oily,shine face,low,high,yes,intermediate,long-lasting matte,oil_control_routine
+sensitive,redness,medium,medium,no,intermediate,minimal makeup,soothing_routine
+dry,peeling skin,low,high,no,beginner,dewy natural makeup,hydration_routine
+normal,smooth skin,medium,high,no,intermediate,simple makeup,maintenance_routine
+normal,healthy skin,medium,high,yes,intermediate,natural glow makeup,maintenance_routine
+unknown,confused skin,low,high,yes,intermediate,minimal makeup,skin_analysis_routine
+dry,itchy dryness,medium,high,no,beginner,soft makeup,hydration_routine
+sensitive,burning sensation,medium,high,no,intermediate,clean makeup,soothing_routine
+unknown,confused skin,high,low,yes,intermediate,basic makeup,skin_analysis_routine
+combination,shine forehead only,high,low,no,intermediate,soft matte,balanced_routine
+dry,peeling skin,medium,low,no,intermediate,glow makeup,hydration_routine
+combination,mixed skin areas,high,low,no,beginner,soft matte,balanced_routine
+dry,peeling skin,high,high,no,beginner,dewy natural makeup,hydration_routine
+unknown,confused skin,low,low,yes,beginner,natural light makeup,skin_analysis_routine
+oily,acne and oil,high,low,no,intermediate,oil-free makeup,oil_control_routine
+normal,healthy skin,high,high,no,intermediate,light makeup,maintenance_routine
+oily,shine face,high,high,yes,beginner,long-lasting matte,oil_control_routine
+oily,shine face,high,high,no,beginner,oil-free makeup,oil_control_routine
+oily,shine face,medium,low,no,intermediate,long-lasting matte,oil_control_routine
+normal,balanced skin,high,medium,no,beginner,simple makeup,maintenance_routine
+combination,mixed skin areas,medium,low,no,intermediate,soft matte,balanced_routine
+oily,acne and oil,medium,low,no,beginner,long-lasting matte,oil_control_routine
+sensitive,irritation,high,low,yes,beginner,minimal makeup,soothing_routine
+combination,shine forehead only,low,high,yes,beginner,natural matte,balanced_routine
+combination,mixed skin areas,high,medium,no,beginner,balanced makeup,balanced_routine
+combination,mixed skin areas,high,high,yes,intermediate,natural matte,balanced_routine
+dry,peeling skin,medium,medium,no,beginner,glow makeup,hydration_routine
+oily,acne and oil,medium,medium,yes,intermediate,long-lasting matte,oil_control_routine
+unknown,no idea skin,medium,high,yes,intermediate,natural light makeup,skin_analysis_routine
+normal,balanced skin,low,medium,yes,beginner,simple makeup,maintenance_routine
+combination,oily T-zone dry cheeks,medium,low,yes,intermediate,natural matte,balanced_routine
+sensitive,redness,medium,medium,no,intermediate,clean makeup,soothing_routine
+combination,mixed skin areas,low,medium,yes,beginner,natural matte,balanced_routine
+oily,large pores,low,high,yes,beginner,matte makeup,oil_control_routine
+oily,shine face,high,low,yes,beginner,long-lasting matte,oil_control_routine
+unknown,not sure skin type,high,low,no,intermediate,minimal makeup,skin_analysis_routine
+oily,large pores,high,high,yes,beginner,long-lasting matte,oil_control_routine
+dry,itchy dryness,low,medium,no,intermediate,soft makeup,hydration_routine
+oily,shine face,high,high,yes,beginner,oil-free makeup,oil_control_routine
+sensitive,burning sensation,high,low,yes,intermediate,light makeup,soothing_routine
+combination,shine forehead only,medium,low,no,beginner,natural matte,balanced_routine
+combination,oily T-zone dry cheeks,medium,medium,no,beginner,natural matte,balanced_routine
+oily,large pores,high,high,no,intermediate,long-lasting matte,oil_control_routine
+combination,shine forehead only,high,medium,no,beginner,balanced makeup,balanced_routine
+sensitive,irritation,low,medium,no,intermediate,minimal makeup,soothing_routine
+combination,mixed skin areas,low,medium,yes,intermediate,natural matte,balanced_routine
+sensitive,irritation,high,high,no,beginner,light makeup,soothing_routine
+oily,shine face,low,high,no,intermediate,oil-free makeup,oil_control_routine
+oily,large pores,medium,high,no,intermediate,matte makeup,oil_control_routine
+dry,peeling skin,low,medium,yes,intermediate,soft makeup,hydration_routine
+normal,smooth skin,medium,high,no,intermediate,simple makeup,maintenance_routine
+normal,smooth skin,medium,high,no,intermediate,light makeup,maintenance_routine
+sensitive,redness,low,high,yes,intermediate,minimal makeup,soothing_routine
+unknown,no idea skin,high,low,yes,beginner,basic makeup,skin_analysis_routine
+combination,mixed skin areas,high,high,no,beginner,balanced makeup,balanced_routine
+sensitive,redness,medium,low,no,beginner,light makeup,soothing_routine
+normal,healthy skin,medium,low,yes,intermediate,simple makeup,maintenance_routine
+oily,large pores,medium,low,yes,intermediate,long-lasting matte,oil_control_routine
+combination,mixed skin areas,medium,low,yes,intermediate,natural matte,balanced_routine
+dry,tight skin,medium,medium,yes,beginner,dewy natural makeup,hydration_routine
+oily,large pores,medium,low,yes,beginner,oil-free makeup,oil_control_routine
+combination,shine forehead only,high,high,yes,intermediate,natural matte,balanced_routine
+combination,mixed skin areas,high,medium,no,beginner,soft matte,balanced_routine
+unknown,not sure skin type,low,high,yes,intermediate,basic makeup,skin_analysis_routine
+dry,tight skin,low,low,yes,beginner,dewy natural makeup,hydration_routine
+combination,mixed skin areas,high,high,no,intermediate,balanced makeup,balanced_routine
+oily,acne and oil,high,medium,no,beginner,oil-free makeup,oil_control_routine
+oily,acne and oil,high,high,yes,intermediate,matte makeup,oil_control_routine
+normal,healthy skin,high,low,no,beginner,natural glow makeup,maintenance_routine
+dry,tight skin,medium,high,no,intermediate,dewy natural makeup,hydration_routine
+combination,shine forehead only,medium,high,no,intermediate,soft matte,balanced_routine
+normal,smooth skin,medium,low,yes,intermediate,simple makeup,maintenance_routine
+sensitive,burning sensation,medium,low,yes,beginner,light makeup,soothing_routine
+normal,balanced skin,low,high,no,beginner,natural glow makeup,maintenance_routine
+combination,shine forehead only,high,medium,no,beginner,soft matte,balanced_routine
+combination,shine forehead only,medium,low,no,intermediate,natural matte,balanced_routine
+sensitive,irritation,high,low,yes,intermediate,clean makeup,soothing_routine
+unknown,confused skin,medium,high,no,beginner,minimal makeup,skin_analysis_routine
+dry,peeling skin,medium,medium,yes,intermediate,soft makeup,hydration_routine
+dry,itchy dryness,high,medium,no,beginner,dewy natural makeup,hydration_routine
+normal,smooth skin,high,medium,no,beginner,natural glow makeup,maintenance_routine
+sensitive,burning sensation,low,medium,no,intermediate,minimal makeup,soothing_routine
+dry,itchy dryness,high,low,yes,intermediate,soft makeup,hydration_routine
+dry,itchy dryness,medium,low,yes,beginner,glow makeup,hydration_routine
+dry,itchy dryness,low,medium,no,intermediate,glow makeup,hydration_routine
+combination,mixed skin areas,low,medium,yes,intermediate,balanced makeup,balanced_routine
+normal,balanced skin,high,low,yes,intermediate,light makeup,maintenance_routine
+sensitive,burning sensation,medium,low,no,intermediate,light makeup,soothing_routine
+normal,balanced skin,medium,low,no,intermediate,light makeup,maintenance_routine
+sensitive,burning sensation,high,medium,no,intermediate,minimal makeup,soothing_routine
+unknown,not sure skin type,high,medium,yes,intermediate,natural light makeup,skin_analysis_routine
+sensitive,burning sensation,medium,high,no,intermediate,light makeup,soothing_routine
+unknown,not sure skin type,medium,low,yes,intermediate,natural light makeup,skin_analysis_routine
+combination,oily T-zone dry cheeks,high,medium,yes,beginner,natural matte,balanced_routine
+unknown,not sure skin type,low,medium,no,intermediate,basic makeup,skin_analysis_routine
+unknown,confused skin,high,low,no,intermediate,minimal makeup,skin_analysis_routine
+unknown,no idea skin,medium,high,yes,beginner,natural light makeup,skin_analysis_routine
+unknown,no idea skin,medium,low,yes,intermediate,natural light makeup,skin_analysis_routine
+unknown,no idea skin,low,medium,yes,intermediate,natural light makeup,skin_analysis_routine
+dry,peeling skin,low,medium,no,intermediate,glow makeup,hydration_routine
+oily,shine face,high,medium,yes,beginner,matte makeup,oil_control_routine
+dry,itchy dryness,medium,high,yes,intermediate,soft makeup,hydration_routine
+oily,shine face,medium,high,no,intermediate,long-lasting matte,oil_control_routine
+unknown,not sure skin type,medium,medium,yes,beginner,minimal makeup,skin_analysis_routine
+sensitive,burning sensation,medium,high,no,intermediate,clean makeup,soothing_routine
+sensitive,redness,medium,medium,yes,beginner,clean makeup,soothing_routine
+normal,smooth skin,high,medium,no,beginner,simple makeup,maintenance_routine
+combination,mixed skin areas,low,high,yes,intermediate,natural matte,balanced_routine
+oily,large pores,medium,low,yes,intermediate,oil-free makeup,oil_control_routine
+unknown,no idea skin,high,low,yes,beginner,minimal makeup,skin_analysis_routine
+combination,oily T-zone dry cheeks,high,medium,yes,beginner,natural matte,balanced_routine
+sensitive,burning sensation,medium,low,yes,beginner,light makeup,soothing_routine
+sensitive,burning sensation,high,medium,yes,intermediate,clean makeup,soothing_routine
+sensitive,burning sensation,medium,low,no,beginner,minimal makeup,soothing_routine
+oily,large pores,high,high,no,intermediate,matte makeup,oil_control_routine
+combination,oily T-zone dry cheeks,medium,high,yes,intermediate,natural matte,balanced_routine
+unknown,no idea skin,high,medium,no,intermediate,natural light makeup,skin_analysis_routine
+unknown,not sure skin type,medium,low,no,beginner,basic makeup,skin_analysis_routine
+dry,itchy dryness,medium,high,no,intermediate,dewy natural makeup,hydration_routine
+oily,shine face,low,medium,no,beginner,matte makeup,oil_control_routine
+oily,large pores,low,medium,no,intermediate,oil-free makeup,oil_control_routine
+unknown,no idea skin,high,medium,yes,intermediate,basic makeup,skin_analysis_routine
+dry,peeling skin,high,medium,no,beginner,soft makeup,hydration_routine
+sensitive,redness,medium,medium,yes,intermediate,minimal makeup,soothing_routine
+unknown,confused skin,high,high,no,beginner,minimal makeup,skin_analysis_routine
+sensitive,redness,low,medium,yes,beginner,light makeup,soothing_routine
+unknown,no idea skin,low,low,no,beginner,natural light makeup,skin_analysis_routine
+normal,healthy skin,low,high,yes,beginner,natural glow makeup,maintenance_routine
+sensitive,redness,high,low,no,beginner,minimal makeup,soothing_routine
+normal,smooth skin,low,low,yes,beginner,natural glow makeup,maintenance_routine
+sensitive,redness,high,medium,yes,beginner,clean makeup,soothing_routine
+dry,tight skin,high,medium,yes,beginner,glow makeup,hydration_routine
+combination,mixed skin areas,high,high,yes,intermediate,soft matte,balanced_routine
+oily,large pores,low,high,no,intermediate,oil-free makeup,oil_control_routine
+dry,tight skin,medium,medium,no,beginner,glow makeup,hydration_routine
+unknown,confused skin,low,low,no,beginner,natural light makeup,skin_analysis_routine
+oily,acne and oil,high,high,no,intermediate,oil-free makeup,oil_control_routine
